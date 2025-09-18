@@ -3,6 +3,7 @@
 "^WS2812B",270,0,0
 "^SW_choc_v1",180,2.5,-4.86
 "^MX-Hotswap",180,0,1.5
+"^SW_KS33_HS_KS-2P02B01-02",0,0.9,-5.225
 "^USB_C_Receptacle_TYPE-C-16P-CB1-6-073",0,0,-1.8
 "^USB_C_Receptacle_HRO_TYPE-C-31-M-12",0,0,1.35
 "^SOT-353_SC-70-5",270,0,0
